@@ -1,0 +1,1426 @@
+ID Year,Year,ID Region,Region,ID Comuna,Comuna,Number of visas
+2005,2005,1,Tarapacá,5,Alto Hospicio,2.0
+2005,2005,1,Tarapacá,113,Iquique,289.0
+2005,2005,2,Antofagasta,9,Antofagasta,28.0
+2005,2005,2,Antofagasta,19,Calama,12.0
+2005,2005,2,Antofagasta,321,Tocopilla,1.0
+2005,2005,3,Atacama,68,Copiapó,7.0
+2005,2005,3,Atacama,109,Huasco,1.0
+2005,2005,3,Atacama,330,Vallenar,2.0
+2005,2005,4,Coquimbo,7,Andacollo,1.0
+2005,2005,4,Coquimbo,69,Coquimbo,8.0
+2005,2005,4,Coquimbo,126,La Serena,15.0
+2005,2005,4,Coquimbo,192,Ovalle,1.0
+2005,2005,5,Valparaíso,151,Los Andes,1.0
+2005,2005,5,Valparaíso,252,Quillota,6.0
+2005,2005,5,Valparaíso,253,Quilpué,5.0
+2005,2005,5,Valparaíso,279,San Antonio,6.0
+2005,2005,5,Valparaíso,285,San Felipe,5.0
+2005,2005,5,Valparaíso,331,Valparaiso,9.0
+2005,2005,5,Valparaíso,337,Villa Alemana,1.0
+2005,2005,5,Valparaíso,339,Viña Del Mar,31.0
+2005,2005,6,O'Higgins,259,Rancagua,7.0
+2005,2005,6,O'Higgins,265,Rengo,3.0
+2005,2005,6,O'Higgins,304,Santa Cruz,1.0
+2005,2005,7,Maule,34,Cauquenes,1.0
+2005,2005,7,Maule,79,Curicó,1.0
+2005,2005,7,Maule,275,Romeral,1.0
+2005,2005,7,Maule,311,Talca,1.0
+2005,2005,8,Biobío,11,Arauco,1.0
+2005,2005,8,Biobío,18,Cabrero,1.0
+2005,2005,8,Biobío,43,Chillán,10.0
+2005,2005,8,Biobío,44,Chillán Viejo,1.0
+2005,2005,8,Biobío,64,Concepción,40.0
+2005,2005,8,Biobío,107,Hualqui,2.0
+2005,2005,8,Biobío,152,Los Angeles,4.0
+2005,2005,8,Biobío,251,Quillón,1.0
+2005,2005,8,Biobío,298,San Pedro De La Paz,3.0
+2005,2005,8,Biobío,323,Tomé,1.0
+2005,2005,9,Araucanía,92,Freire,2.0
+2005,2005,9,Araucanía,135,Lautaro,2.0
+2005,2005,9,Araucanía,230,Pucón,2.0
+2005,2005,9,Araucanía,314,Temuco,22.0
+2005,2005,9,Araucanía,338,Villarrica,4.0
+2005,2005,10,Los Lagos,6,Ancud,1.0
+2005,2005,10,Los Lagos,95,Frutillar,3.0
+2005,2005,10,Los Lagos,141,Llanquihue,1.0
+2005,2005,10,Los Lagos,191,Osorno,2.0
+2005,2005,10,Los Lagos,233,Puerto Montt,11.0
+2005,2005,12,Magallanes,179,Natales,2.0
+2005,2005,12,Magallanes,238,Punta Arenas,15.0
+2005,2005,13,Region Metropolitana Santiago,14,Buin,4.0
+2005,2005,13,Region Metropolitana Santiago,23,Calera De Tango,1.0
+2005,2005,13,Region Metropolitana Santiago,35,Cerrillos,23.0
+2005,2005,13,Region Metropolitana Santiago,36,Cerro Navia,7.0
+2005,2005,13,Region Metropolitana Santiago,59,Colina,7.0
+2005,2005,13,Region Metropolitana Santiago,65,Conchalí,13.0
+2005,2005,13,Region Metropolitana Santiago,83,El Bosque,2.0
+2005,2005,13,Region Metropolitana Santiago,85,El Monte,1.0
+2005,2005,13,Region Metropolitana Santiago,90,Estacion Central,40.0
+2005,2005,13,Region Metropolitana Santiago,110,Huechuraba,4.0
+2005,2005,13,Region Metropolitana Santiago,112,Independencia,18.0
+2005,2005,13,Region Metropolitana Santiago,117,La Cisterna,5.0
+2005,2005,13,Region Metropolitana Santiago,120,La Florida,32.0
+2005,2005,13,Region Metropolitana Santiago,121,La Granja,5.0
+2005,2005,13,Region Metropolitana Santiago,124,La Pintana,1.0
+2005,2005,13,Region Metropolitana Santiago,125,La Reina,11.0
+2005,2005,13,Region Metropolitana Santiago,134,Las Condes,272.0
+2005,2005,13,Region Metropolitana Santiago,143,Lo Barnechea,9.0
+2005,2005,13,Region Metropolitana Santiago,144,Lo Espejo,4.0
+2005,2005,13,Region Metropolitana Santiago,145,Lo Prado,1.0
+2005,2005,13,Region Metropolitana Santiago,160,Macul,14.0
+2005,2005,13,Region Metropolitana Santiago,162,Maipú,60.0
+2005,2005,13,Region Metropolitana Santiago,172,Melipilla,3.0
+2005,2005,13,Region Metropolitana Santiago,186,Ñuñoa,47.0
+2005,2005,13,Region Metropolitana Santiago,197,Paine,6.0
+2005,2005,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,10.0
+2005,2005,13,Region Metropolitana Santiago,211,Peñaflor,3.0
+2005,2005,13,Region Metropolitana Santiago,212,Peñalolén,16.0
+2005,2005,13,Region Metropolitana Santiago,228,Providencia,167.0
+2005,2005,13,Region Metropolitana Santiago,231,Pudahuel,11.0
+2005,2005,13,Region Metropolitana Santiago,232,Puente Alto,43.0
+2005,2005,13,Region Metropolitana Santiago,249,Quilicura,35.0
+2005,2005,13,Region Metropolitana Santiago,256,Quinta Normal,6.0
+2005,2005,13,Region Metropolitana Santiago,262,Recoleta,161.0
+2005,2005,13,Region Metropolitana Santiago,264,Renca,7.0
+2005,2005,13,Region Metropolitana Santiago,280,San Bernardo,21.0
+2005,2005,13,Region Metropolitana Santiago,290,San Joaquín,6.0
+2005,2005,13,Region Metropolitana Santiago,293,San Miguel,13.0
+2005,2005,13,Region Metropolitana Santiago,300,San Ramón,2.0
+2005,2005,13,Region Metropolitana Santiago,307,Santiago,430.0
+2005,2005,13,Region Metropolitana Santiago,310,Talagante,12.0
+2005,2005,13,Region Metropolitana Santiago,340,Vitacura,24.0
+2005,2005,13,Region Metropolitana Santiago,346,Lampa,1.0
+2005,2005,14,Los Ríos,127,La Unión,1.0
+2005,2005,14,Los Ríos,196,Paillaco,3.0
+2005,2005,14,Los Ríos,200,Panguipulli,2.0
+2005,2005,14,Los Ríos,329,Valdivia,8.0
+2005,2005,15,Arica y Parinacota,12,Arica,7.0
+2006,2006,1,Tarapacá,5,Alto Hospicio,3.0
+2006,2006,1,Tarapacá,113,Iquique,369.0
+2006,2006,2,Antofagasta,9,Antofagasta,42.0
+2006,2006,2,Antofagasta,19,Calama,12.0
+2006,2006,2,Antofagasta,321,Tocopilla,2.0
+2006,2006,3,Atacama,68,Copiapó,6.0
+2006,2006,3,Atacama,81,Diego De Almagro,2.0
+2006,2006,3,Atacama,330,Vallenar,4.0
+2006,2006,4,Coquimbo,69,Coquimbo,9.0
+2006,2006,4,Coquimbo,126,La Serena,9.0
+2006,2006,4,Coquimbo,192,Ovalle,6.0
+2006,2006,5,Valparaíso,151,Los Andes,5.0
+2006,2006,5,Valparaíso,252,Quillota,16.0
+2006,2006,5,Valparaíso,253,Quilpué,1.0
+2006,2006,5,Valparaíso,279,San Antonio,2.0
+2006,2006,5,Valparaíso,285,San Felipe,4.0
+2006,2006,5,Valparaíso,331,Valparaiso,7.0
+2006,2006,5,Valparaíso,337,Villa Alemana,3.0
+2006,2006,5,Valparaíso,339,Viña Del Mar,37.0
+2006,2006,6,O'Higgins,159,Machalí,2.0
+2006,2006,6,O'Higgins,223,Placilla,1.0
+2006,2006,6,O'Higgins,259,Rancagua,6.0
+2006,2006,6,O'Higgins,286,San Fernando,1.0
+2006,2006,7,Maule,57,Colbún,1.0
+2006,2006,7,Maule,204,Parral,2.0
+2006,2006,7,Maule,275,Romeral,1.0
+2006,2006,7,Maule,311,Talca,2.0
+2006,2006,8,Biobío,11,Arauco,1.0
+2006,2006,8,Biobío,41,Chiguayante,2.0
+2006,2006,8,Biobío,43,Chillán,8.0
+2006,2006,8,Biobío,64,Concepción,35.0
+2006,2006,8,Biobío,106,Hualpén,1.0
+2006,2006,8,Biobío,107,Hualqui,2.0
+2006,2006,8,Biobío,152,Los Angeles,7.0
+2006,2006,8,Biobío,157,Lota,2.0
+2006,2006,8,Biobío,298,San Pedro De La Paz,1.0
+2006,2006,8,Biobío,312,Talcahuano,2.0
+2006,2006,8,Biobío,323,Tomé,1.0
+2006,2006,8,Biobío,343,Yungay,2.0
+2006,2006,9,Araucanía,92,Freire,2.0
+2006,2006,9,Araucanía,135,Lautaro,2.0
+2006,2006,9,Araucanía,194,Padre Las Casas,1.0
+2006,2006,9,Araucanía,230,Pucón,1.0
+2006,2006,9,Araucanía,314,Temuco,25.0
+2006,2006,10,Los Lagos,20,Calbuco,1.0
+2006,2006,10,Los Lagos,95,Frutillar,2.0
+2006,2006,10,Los Lagos,169,Maullín,1.0
+2006,2006,10,Los Lagos,191,Osorno,5.0
+2006,2006,10,Los Lagos,233,Puerto Montt,12.0
+2006,2006,10,Los Lagos,241,Purranque,1.0
+2006,2006,11,Aysén,51,Cochrane,2.0
+2006,2006,12,Magallanes,179,Natales,2.0
+2006,2006,12,Magallanes,225,Porvenir,2.0
+2006,2006,12,Magallanes,238,Punta Arenas,25.0
+2006,2006,13,Region Metropolitana Santiago,14,Buin,3.0
+2006,2006,13,Region Metropolitana Santiago,23,Calera De Tango,1.0
+2006,2006,13,Region Metropolitana Santiago,35,Cerrillos,29.0
+2006,2006,13,Region Metropolitana Santiago,36,Cerro Navia,7.0
+2006,2006,13,Region Metropolitana Santiago,59,Colina,5.0
+2006,2006,13,Region Metropolitana Santiago,65,Conchalí,12.0
+2006,2006,13,Region Metropolitana Santiago,83,El Bosque,2.0
+2006,2006,13,Region Metropolitana Santiago,85,El Monte,1.0
+2006,2006,13,Region Metropolitana Santiago,90,Estacion Central,51.0
+2006,2006,13,Region Metropolitana Santiago,110,Huechuraba,8.0
+2006,2006,13,Region Metropolitana Santiago,112,Independencia,14.0
+2006,2006,13,Region Metropolitana Santiago,117,La Cisterna,2.0
+2006,2006,13,Region Metropolitana Santiago,120,La Florida,29.0
+2006,2006,13,Region Metropolitana Santiago,121,La Granja,2.0
+2006,2006,13,Region Metropolitana Santiago,125,La Reina,9.0
+2006,2006,13,Region Metropolitana Santiago,134,Las Condes,324.0
+2006,2006,13,Region Metropolitana Santiago,143,Lo Barnechea,17.0
+2006,2006,13,Region Metropolitana Santiago,144,Lo Espejo,3.0
+2006,2006,13,Region Metropolitana Santiago,145,Lo Prado,1.0
+2006,2006,13,Region Metropolitana Santiago,160,Macul,5.0
+2006,2006,13,Region Metropolitana Santiago,162,Maipú,52.0
+2006,2006,13,Region Metropolitana Santiago,172,Melipilla,4.0
+2006,2006,13,Region Metropolitana Santiago,186,Ñuñoa,53.0
+2006,2006,13,Region Metropolitana Santiago,193,Padre Hurtado,1.0
+2006,2006,13,Region Metropolitana Santiago,197,Paine,1.0
+2006,2006,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,6.0
+2006,2006,13,Region Metropolitana Santiago,211,Peñaflor,4.0
+2006,2006,13,Region Metropolitana Santiago,212,Peñalolén,15.0
+2006,2006,13,Region Metropolitana Santiago,228,Providencia,178.0
+2006,2006,13,Region Metropolitana Santiago,231,Pudahuel,17.0
+2006,2006,13,Region Metropolitana Santiago,232,Puente Alto,34.0
+2006,2006,13,Region Metropolitana Santiago,249,Quilicura,23.0
+2006,2006,13,Region Metropolitana Santiago,256,Quinta Normal,18.0
+2006,2006,13,Region Metropolitana Santiago,262,Recoleta,166.0
+2006,2006,13,Region Metropolitana Santiago,264,Renca,1.0
+2006,2006,13,Region Metropolitana Santiago,280,San Bernardo,15.0
+2006,2006,13,Region Metropolitana Santiago,290,San Joaquín,4.0
+2006,2006,13,Region Metropolitana Santiago,293,San Miguel,29.0
+2006,2006,13,Region Metropolitana Santiago,307,Santiago,479.0
+2006,2006,13,Region Metropolitana Santiago,310,Talagante,14.0
+2006,2006,13,Region Metropolitana Santiago,340,Vitacura,24.0
+2006,2006,13,Region Metropolitana Santiago,346,Lampa,2.0
+2006,2006,14,Los Ríos,196,Paillaco,5.0
+2006,2006,14,Los Ríos,200,Panguipulli,1.0
+2006,2006,14,Los Ríos,329,Valdivia,11.0
+2006,2006,15,Arica y Parinacota,12,Arica,8.0
+2007,2007,1,Tarapacá,5,Alto Hospicio,2.0
+2007,2007,1,Tarapacá,113,Iquique,462.0
+2007,2007,2,Antofagasta,9,Antofagasta,27.0
+2007,2007,2,Antofagasta,19,Calama,8.0
+2007,2007,2,Antofagasta,321,Tocopilla,1.0
+2007,2007,3,Atacama,39,Chañaral,1.0
+2007,2007,3,Atacama,68,Copiapó,12.0
+2007,2007,3,Atacama,81,Diego De Almagro,1.0
+2007,2007,3,Atacama,109,Huasco,7.0
+2007,2007,3,Atacama,330,Vallenar,1.0
+2007,2007,4,Coquimbo,69,Coquimbo,9.0
+2007,2007,4,Coquimbo,126,La Serena,6.0
+2007,2007,5,Valparaíso,22,Calera,1.0
+2007,2007,5,Valparaíso,63,Con Cón,1.0
+2007,2007,5,Valparaíso,115,Isla De Pascua,1.0
+2007,2007,5,Valparaíso,151,Los Andes,8.0
+2007,2007,5,Valparaíso,183,Nogales,2.0
+2007,2007,5,Valparaíso,252,Quillota,15.0
+2007,2007,5,Valparaíso,253,Quilpué,1.0
+2007,2007,5,Valparaíso,279,San Antonio,5.0
+2007,2007,5,Valparaíso,285,San Felipe,7.0
+2007,2007,5,Valparaíso,306,Santa Maria,1.0
+2007,2007,5,Valparaíso,331,Valparaiso,15.0
+2007,2007,5,Valparaíso,337,Villa Alemana,3.0
+2007,2007,5,Valparaíso,339,Viña Del Mar,56.0
+2007,2007,6,O'Higgins,101,Graneros,1.0
+2007,2007,6,O'Higgins,159,Machalí,4.0
+2007,2007,6,O'Higgins,259,Rancagua,5.0
+2007,2007,6,O'Higgins,265,Rengo,1.0
+2007,2007,6,O'Higgins,286,San Fernando,3.0
+2007,2007,7,Maule,79,Curicó,1.0
+2007,2007,7,Maule,139,Linares,3.0
+2007,2007,7,Maule,173,Molina,1.0
+2007,2007,7,Maule,204,Parral,1.0
+2007,2007,7,Maule,311,Talca,4.0
+2007,2007,8,Biobío,41,Chiguayante,1.0
+2007,2007,8,Biobío,43,Chillán,10.0
+2007,2007,8,Biobío,44,Chillán Viejo,1.0
+2007,2007,8,Biobío,64,Concepción,47.0
+2007,2007,8,Biobío,107,Hualqui,3.0
+2007,2007,8,Biobío,152,Los Angeles,9.0
+2007,2007,8,Biobío,298,San Pedro De La Paz,2.0
+2007,2007,8,Biobío,343,Yungay,2.0
+2007,2007,9,Araucanía,92,Freire,2.0
+2007,2007,9,Araucanía,135,Lautaro,3.0
+2007,2007,9,Araucanía,314,Temuco,22.0
+2007,2007,9,Araucanía,338,Villarrica,1.0
+2007,2007,10,Los Lagos,20,Calbuco,1.0
+2007,2007,10,Los Lagos,95,Frutillar,5.0
+2007,2007,10,Los Lagos,169,Maullín,1.0
+2007,2007,10,Los Lagos,191,Osorno,5.0
+2007,2007,10,Los Lagos,233,Puerto Montt,13.0
+2007,2007,10,Los Lagos,241,Purranque,6.0
+2007,2007,12,Magallanes,179,Natales,3.0
+2007,2007,12,Magallanes,225,Porvenir,1.0
+2007,2007,12,Magallanes,238,Punta Arenas,20.0
+2007,2007,13,Region Metropolitana Santiago,14,Buin,2.0
+2007,2007,13,Region Metropolitana Santiago,23,Calera De Tango,5.0
+2007,2007,13,Region Metropolitana Santiago,35,Cerrillos,26.0
+2007,2007,13,Region Metropolitana Santiago,36,Cerro Navia,2.0
+2007,2007,13,Region Metropolitana Santiago,59,Colina,3.0
+2007,2007,13,Region Metropolitana Santiago,65,Conchalí,13.0
+2007,2007,13,Region Metropolitana Santiago,83,El Bosque,4.0
+2007,2007,13,Region Metropolitana Santiago,90,Estacion Central,65.0
+2007,2007,13,Region Metropolitana Santiago,110,Huechuraba,3.0
+2007,2007,13,Region Metropolitana Santiago,112,Independencia,20.0
+2007,2007,13,Region Metropolitana Santiago,117,La Cisterna,4.0
+2007,2007,13,Region Metropolitana Santiago,120,La Florida,44.0
+2007,2007,13,Region Metropolitana Santiago,121,La Granja,10.0
+2007,2007,13,Region Metropolitana Santiago,124,La Pintana,1.0
+2007,2007,13,Region Metropolitana Santiago,125,La Reina,5.0
+2007,2007,13,Region Metropolitana Santiago,134,Las Condes,267.0
+2007,2007,13,Region Metropolitana Santiago,143,Lo Barnechea,24.0
+2007,2007,13,Region Metropolitana Santiago,144,Lo Espejo,3.0
+2007,2007,13,Region Metropolitana Santiago,145,Lo Prado,3.0
+2007,2007,13,Region Metropolitana Santiago,160,Macul,12.0
+2007,2007,13,Region Metropolitana Santiago,162,Maipú,54.0
+2007,2007,13,Region Metropolitana Santiago,172,Melipilla,3.0
+2007,2007,13,Region Metropolitana Santiago,186,Ñuñoa,60.0
+2007,2007,13,Region Metropolitana Santiago,197,Paine,1.0
+2007,2007,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,4.0
+2007,2007,13,Region Metropolitana Santiago,211,Peñaflor,8.0
+2007,2007,13,Region Metropolitana Santiago,212,Peñalolén,16.0
+2007,2007,13,Region Metropolitana Santiago,228,Providencia,190.0
+2007,2007,13,Region Metropolitana Santiago,231,Pudahuel,11.0
+2007,2007,13,Region Metropolitana Santiago,232,Puente Alto,35.0
+2007,2007,13,Region Metropolitana Santiago,249,Quilicura,22.0
+2007,2007,13,Region Metropolitana Santiago,256,Quinta Normal,11.0
+2007,2007,13,Region Metropolitana Santiago,262,Recoleta,200.0
+2007,2007,13,Region Metropolitana Santiago,264,Renca,4.0
+2007,2007,13,Region Metropolitana Santiago,280,San Bernardo,19.0
+2007,2007,13,Region Metropolitana Santiago,290,San Joaquín,11.0
+2007,2007,13,Region Metropolitana Santiago,293,San Miguel,32.0
+2007,2007,13,Region Metropolitana Santiago,300,San Ramón,2.0
+2007,2007,13,Region Metropolitana Santiago,307,Santiago,669.0
+2007,2007,13,Region Metropolitana Santiago,310,Talagante,8.0
+2007,2007,13,Region Metropolitana Santiago,340,Vitacura,28.0
+2007,2007,13,Region Metropolitana Santiago,346,Lampa,2.0
+2007,2007,14,Los Ríos,127,La Unión,1.0
+2007,2007,14,Los Ríos,329,Valdivia,2.0
+2007,2007,15,Arica y Parinacota,12,Arica,6.0
+2008,2008,1,Tarapacá,5,Alto Hospicio,6.0
+2008,2008,1,Tarapacá,113,Iquique,499.0
+2008,2008,1,Tarapacá,226,Pozo Almonte,2.0
+2008,2008,2,Antofagasta,9,Antofagasta,53.0
+2008,2008,2,Antofagasta,19,Calama,9.0
+2008,2008,2,Antofagasta,170,Mejillones,1.0
+2008,2008,2,Antofagasta,321,Tocopilla,3.0
+2008,2008,3,Atacama,39,Chañaral,2.0
+2008,2008,3,Atacama,68,Copiapó,27.0
+2008,2008,3,Atacama,81,Diego De Almagro,3.0
+2008,2008,3,Atacama,109,Huasco,24.0
+2008,2008,3,Atacama,317,Tierra Amarilla,1.0
+2008,2008,3,Atacama,330,Vallenar,1.0
+2008,2008,4,Coquimbo,69,Coquimbo,10.0
+2008,2008,4,Coquimbo,111,Illapel,3.0
+2008,2008,4,Coquimbo,126,La Serena,15.0
+2008,2008,5,Valparaíso,22,Calera,3.0
+2008,2008,5,Valparaíso,63,Con Cón,3.0
+2008,2008,5,Valparaíso,103,Hijuelas,1.0
+2008,2008,5,Valparaíso,151,Los Andes,5.0
+2008,2008,5,Valparaíso,252,Quillota,9.0
+2008,2008,5,Valparaíso,253,Quilpué,2.0
+2008,2008,5,Valparaíso,279,San Antonio,4.0
+2008,2008,5,Valparaíso,285,San Felipe,11.0
+2008,2008,5,Valparaíso,331,Valparaiso,14.0
+2008,2008,5,Valparaíso,337,Villa Alemana,2.0
+2008,2008,5,Valparaíso,339,Viña Del Mar,40.0
+2008,2008,6,O'Higgins,101,Graneros,1.0
+2008,2008,6,O'Higgins,175,San Francisco De Mostazal,1.0
+2008,2008,6,O'Higgins,259,Rancagua,10.0
+2008,2008,6,O'Higgins,286,San Fernando,7.0
+2008,2008,7,Maule,34,Cauquenes,1.0
+2008,2008,7,Maule,57,Colbún,1.0
+2008,2008,7,Maule,139,Linares,5.0
+2008,2008,7,Maule,204,Parral,4.0
+2008,2008,7,Maule,289,San Javier,2.0
+2008,2008,7,Maule,311,Talca,6.0
+2008,2008,8,Biobío,11,Arauco,2.0
+2008,2008,8,Biobío,18,Cabrero,1.0
+2008,2008,8,Biobío,43,Chillán,7.0
+2008,2008,8,Biobío,64,Concepción,30.0
+2008,2008,8,Biobío,106,Hualpén,1.0
+2008,2008,8,Biobío,107,Hualqui,1.0
+2008,2008,8,Biobío,152,Los Angeles,9.0
+2008,2008,8,Biobío,157,Lota,1.0
+2008,2008,8,Biobío,298,San Pedro De La Paz,5.0
+2008,2008,8,Biobío,312,Talcahuano,1.0
+2008,2008,8,Biobío,343,Yungay,2.0
+2008,2008,9,Araucanía,8,Angol,1.0
+2008,2008,9,Araucanía,135,Lautaro,4.0
+2008,2008,9,Araucanía,230,Pucón,1.0
+2008,2008,9,Araucanía,314,Temuco,24.0
+2008,2008,10,Los Lagos,95,Frutillar,7.0
+2008,2008,10,Los Lagos,191,Osorno,12.0
+2008,2008,10,Los Lagos,233,Puerto Montt,10.0
+2008,2008,10,Los Lagos,235,Puerto Varas,5.0
+2008,2008,11,Aysén,51,Cochrane,1.0
+2008,2008,12,Magallanes,179,Natales,1.0
+2008,2008,12,Magallanes,225,Porvenir,1.0
+2008,2008,12,Magallanes,238,Punta Arenas,16.0
+2008,2008,13,Region Metropolitana Santiago,14,Buin,6.0
+2008,2008,13,Region Metropolitana Santiago,23,Calera De Tango,9.0
+2008,2008,13,Region Metropolitana Santiago,35,Cerrillos,34.0
+2008,2008,13,Region Metropolitana Santiago,36,Cerro Navia,4.0
+2008,2008,13,Region Metropolitana Santiago,59,Colina,4.0
+2008,2008,13,Region Metropolitana Santiago,65,Conchalí,15.0
+2008,2008,13,Region Metropolitana Santiago,83,El Bosque,5.0
+2008,2008,13,Region Metropolitana Santiago,85,El Monte,2.0
+2008,2008,13,Region Metropolitana Santiago,90,Estacion Central,64.0
+2008,2008,13,Region Metropolitana Santiago,110,Huechuraba,10.0
+2008,2008,13,Region Metropolitana Santiago,112,Independencia,28.0
+2008,2008,13,Region Metropolitana Santiago,117,La Cisterna,4.0
+2008,2008,13,Region Metropolitana Santiago,120,La Florida,41.0
+2008,2008,13,Region Metropolitana Santiago,121,La Granja,8.0
+2008,2008,13,Region Metropolitana Santiago,124,La Pintana,2.0
+2008,2008,13,Region Metropolitana Santiago,125,La Reina,9.0
+2008,2008,13,Region Metropolitana Santiago,134,Las Condes,322.0
+2008,2008,13,Region Metropolitana Santiago,143,Lo Barnechea,26.0
+2008,2008,13,Region Metropolitana Santiago,144,Lo Espejo,3.0
+2008,2008,13,Region Metropolitana Santiago,145,Lo Prado,7.0
+2008,2008,13,Region Metropolitana Santiago,160,Macul,9.0
+2008,2008,13,Region Metropolitana Santiago,162,Maipú,61.0
+2008,2008,13,Region Metropolitana Santiago,172,Melipilla,4.0
+2008,2008,13,Region Metropolitana Santiago,186,Ñuñoa,64.0
+2008,2008,13,Region Metropolitana Santiago,197,Paine,2.0
+2008,2008,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,2.0
+2008,2008,13,Region Metropolitana Santiago,211,Peñaflor,12.0
+2008,2008,13,Region Metropolitana Santiago,212,Peñalolén,17.0
+2008,2008,13,Region Metropolitana Santiago,228,Providencia,194.0
+2008,2008,13,Region Metropolitana Santiago,231,Pudahuel,11.0
+2008,2008,13,Region Metropolitana Santiago,232,Puente Alto,35.0
+2008,2008,13,Region Metropolitana Santiago,249,Quilicura,19.0
+2008,2008,13,Region Metropolitana Santiago,256,Quinta Normal,14.0
+2008,2008,13,Region Metropolitana Santiago,262,Recoleta,230.0
+2008,2008,13,Region Metropolitana Santiago,264,Renca,3.0
+2008,2008,13,Region Metropolitana Santiago,280,San Bernardo,38.0
+2008,2008,13,Region Metropolitana Santiago,290,San Joaquín,6.0
+2008,2008,13,Region Metropolitana Santiago,293,San Miguel,30.0
+2008,2008,13,Region Metropolitana Santiago,300,San Ramón,11.0
+2008,2008,13,Region Metropolitana Santiago,307,Santiago,619.0
+2008,2008,13,Region Metropolitana Santiago,310,Talagante,9.0
+2008,2008,13,Region Metropolitana Santiago,340,Vitacura,34.0
+2008,2008,13,Region Metropolitana Santiago,346,Lampa,6.0
+2008,2008,14,Los Ríos,97,Futrono,1.0
+2008,2008,14,Los Ríos,127,La Unión,2.0
+2008,2008,14,Los Ríos,196,Paillaco,3.0
+2008,2008,14,Los Ríos,329,Valdivia,15.0
+2008,2008,15,Arica y Parinacota,12,Arica,14.0
+2009,2009,1,Tarapacá,5,Alto Hospicio,6.0
+2009,2009,1,Tarapacá,113,Iquique,539.0
+2009,2009,2,Antofagasta,9,Antofagasta,46.0
+2009,2009,2,Antofagasta,19,Calama,13.0
+2009,2009,2,Antofagasta,170,Mejillones,12.0
+2009,2009,2,Antofagasta,321,Tocopilla,2.0
+2009,2009,3,Atacama,39,Chañaral,2.0
+2009,2009,3,Atacama,68,Copiapó,31.0
+2009,2009,3,Atacama,81,Diego De Almagro,3.0
+2009,2009,3,Atacama,109,Huasco,29.0
+2009,2009,3,Atacama,317,Tierra Amarilla,1.0
+2009,2009,3,Atacama,330,Vallenar,5.0
+2009,2009,4,Coquimbo,7,Andacollo,10.0
+2009,2009,4,Coquimbo,69,Coquimbo,16.0
+2009,2009,4,Coquimbo,111,Illapel,1.0
+2009,2009,4,Coquimbo,126,La Serena,13.0
+2009,2009,4,Coquimbo,192,Ovalle,1.0
+2009,2009,4,Coquimbo,334,Vicuña,1.0
+2009,2009,5,Valparaíso,16,Cabildo,1.0
+2009,2009,5,Valparaíso,63,Con Cón,6.0
+2009,2009,5,Valparaíso,115,Isla De Pascua,3.0
+2009,2009,5,Valparaíso,151,Los Andes,1.0
+2009,2009,5,Valparaíso,190,Olmué,1.0
+2009,2009,5,Valparaíso,229,Puchuncaví,1.0
+2009,2009,5,Valparaíso,252,Quillota,2.0
+2009,2009,5,Valparaíso,279,San Antonio,3.0
+2009,2009,5,Valparaíso,285,San Felipe,6.0
+2009,2009,5,Valparaíso,331,Valparaiso,9.0
+2009,2009,5,Valparaíso,337,Villa Alemana,3.0
+2009,2009,5,Valparaíso,339,Viña Del Mar,41.0
+2009,2009,6,O'Higgins,159,Machalí,2.0
+2009,2009,6,O'Higgins,175,San Francisco De Mostazal,1.0
+2009,2009,6,O'Higgins,259,Rancagua,17.0
+2009,2009,6,O'Higgins,265,Rengo,6.0
+2009,2009,6,O'Higgins,266,Requinoa,1.0
+2009,2009,6,O'Higgins,286,San Fernando,7.0
+2009,2009,6,O'Higgins,302,San Vicente,1.0
+2009,2009,7,Maule,34,Cauquenes,1.0
+2009,2009,7,Maule,79,Curicó,1.0
+2009,2009,7,Maule,139,Linares,6.0
+2009,2009,7,Maule,204,Parral,3.0
+2009,2009,7,Maule,311,Talca,12.0
+2009,2009,8,Biobío,18,Cabrero,3.0
+2009,2009,8,Biobío,43,Chillán,12.0
+2009,2009,8,Biobío,64,Concepción,50.0
+2009,2009,8,Biobío,70,Coronel,2.0
+2009,2009,8,Biobío,107,Hualqui,3.0
+2009,2009,8,Biobío,152,Los Angeles,4.0
+2009,2009,8,Biobío,281,San Carlos,1.0
+2009,2009,8,Biobío,298,San Pedro De La Paz,3.0
+2009,2009,8,Biobío,343,Yungay,2.0
+2009,2009,9,Araucanía,8,Angol,2.0
+2009,2009,9,Araucanía,92,Freire,2.0
+2009,2009,9,Araucanía,135,Lautaro,14.0
+2009,2009,9,Araucanía,230,Pucón,1.0
+2009,2009,9,Araucanía,314,Temuco,30.0
+2009,2009,9,Araucanía,338,Villarrica,1.0
+2009,2009,10,Los Lagos,95,Frutillar,1.0
+2009,2009,10,Los Lagos,169,Maullín,1.0
+2009,2009,10,Los Lagos,191,Osorno,6.0
+2009,2009,10,Los Lagos,233,Puerto Montt,16.0
+2009,2009,10,Los Lagos,273,Rio Negro,1.0
+2009,2009,11,Aysén,102,Guaitecas,1.0
+2009,2009,12,Magallanes,179,Natales,1.0
+2009,2009,12,Magallanes,238,Punta Arenas,24.0
+2009,2009,13,Region Metropolitana Santiago,14,Buin,4.0
+2009,2009,13,Region Metropolitana Santiago,23,Calera De Tango,3.0
+2009,2009,13,Region Metropolitana Santiago,35,Cerrillos,51.0
+2009,2009,13,Region Metropolitana Santiago,36,Cerro Navia,10.0
+2009,2009,13,Region Metropolitana Santiago,59,Colina,4.0
+2009,2009,13,Region Metropolitana Santiago,65,Conchalí,9.0
+2009,2009,13,Region Metropolitana Santiago,83,El Bosque,5.0
+2009,2009,13,Region Metropolitana Santiago,85,El Monte,1.0
+2009,2009,13,Region Metropolitana Santiago,90,Estacion Central,68.0
+2009,2009,13,Region Metropolitana Santiago,110,Huechuraba,14.0
+2009,2009,13,Region Metropolitana Santiago,112,Independencia,29.0
+2009,2009,13,Region Metropolitana Santiago,117,La Cisterna,8.0
+2009,2009,13,Region Metropolitana Santiago,120,La Florida,42.0
+2009,2009,13,Region Metropolitana Santiago,121,La Granja,9.0
+2009,2009,13,Region Metropolitana Santiago,124,La Pintana,5.0
+2009,2009,13,Region Metropolitana Santiago,125,La Reina,18.0
+2009,2009,13,Region Metropolitana Santiago,134,Las Condes,369.0
+2009,2009,13,Region Metropolitana Santiago,143,Lo Barnechea,25.0
+2009,2009,13,Region Metropolitana Santiago,144,Lo Espejo,3.0
+2009,2009,13,Region Metropolitana Santiago,145,Lo Prado,4.0
+2009,2009,13,Region Metropolitana Santiago,160,Macul,13.0
+2009,2009,13,Region Metropolitana Santiago,162,Maipú,76.0
+2009,2009,13,Region Metropolitana Santiago,172,Melipilla,4.0
+2009,2009,13,Region Metropolitana Santiago,186,Ñuñoa,76.0
+2009,2009,13,Region Metropolitana Santiago,193,Padre Hurtado,3.0
+2009,2009,13,Region Metropolitana Santiago,197,Paine,2.0
+2009,2009,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,2.0
+2009,2009,13,Region Metropolitana Santiago,211,Peñaflor,8.0
+2009,2009,13,Region Metropolitana Santiago,212,Peñalolén,26.0
+2009,2009,13,Region Metropolitana Santiago,221,Pirque,1.0
+2009,2009,13,Region Metropolitana Santiago,228,Providencia,363.0
+2009,2009,13,Region Metropolitana Santiago,231,Pudahuel,13.0
+2009,2009,13,Region Metropolitana Santiago,232,Puente Alto,39.0
+2009,2009,13,Region Metropolitana Santiago,249,Quilicura,27.0
+2009,2009,13,Region Metropolitana Santiago,256,Quinta Normal,19.0
+2009,2009,13,Region Metropolitana Santiago,262,Recoleta,218.0
+2009,2009,13,Region Metropolitana Santiago,264,Renca,3.0
+2009,2009,13,Region Metropolitana Santiago,280,San Bernardo,47.0
+2009,2009,13,Region Metropolitana Santiago,290,San Joaquín,8.0
+2009,2009,13,Region Metropolitana Santiago,293,San Miguel,43.0
+2009,2009,13,Region Metropolitana Santiago,300,San Ramón,7.0
+2009,2009,13,Region Metropolitana Santiago,307,Santiago,740.0
+2009,2009,13,Region Metropolitana Santiago,310,Talagante,3.0
+2009,2009,13,Region Metropolitana Santiago,340,Vitacura,50.0
+2009,2009,13,Region Metropolitana Santiago,346,Lampa,6.0
+2009,2009,14,Los Ríos,97,Futrono,1.0
+2009,2009,14,Los Ríos,329,Valdivia,20.0
+2009,2009,15,Arica y Parinacota,12,Arica,11.0
+2010,2010,1,Tarapacá,5,Alto Hospicio,7.0
+2010,2010,1,Tarapacá,113,Iquique,526.0
+2010,2010,1,Tarapacá,226,Pozo Almonte,2.0
+2010,2010,2,Antofagasta,9,Antofagasta,52.0
+2010,2010,2,Antofagasta,19,Calama,13.0
+2010,2010,2,Antofagasta,170,Mejillones,48.0
+2010,2010,2,Antofagasta,321,Tocopilla,3.0
+2010,2010,3,Atacama,39,Chañaral,4.0
+2010,2010,3,Atacama,68,Copiapó,39.0
+2010,2010,3,Atacama,81,Diego De Almagro,3.0
+2010,2010,3,Atacama,109,Huasco,7.0
+2010,2010,3,Atacama,317,Tierra Amarilla,1.0
+2010,2010,3,Atacama,330,Vallenar,1.0
+2010,2010,4,Coquimbo,7,Andacollo,16.0
+2010,2010,4,Coquimbo,69,Coquimbo,18.0
+2010,2010,4,Coquimbo,111,Illapel,2.0
+2010,2010,4,Coquimbo,126,La Serena,17.0
+2010,2010,4,Coquimbo,192,Ovalle,8.0
+2010,2010,4,Coquimbo,334,Vicuña,1.0
+2010,2010,5,Valparaíso,16,Cabildo,1.0
+2010,2010,5,Valparaíso,22,Calera,7.0
+2010,2010,5,Valparaíso,103,Hijuelas,1.0
+2010,2010,5,Valparaíso,115,Isla De Pascua,2.0
+2010,2010,5,Valparaíso,151,Los Andes,2.0
+2010,2010,5,Valparaíso,252,Quillota,7.0
+2010,2010,5,Valparaíso,253,Quilpué,2.0
+2010,2010,5,Valparaíso,279,San Antonio,3.0
+2010,2010,5,Valparaíso,285,San Felipe,15.0
+2010,2010,5,Valparaíso,331,Valparaiso,19.0
+2010,2010,5,Valparaíso,337,Villa Alemana,5.0
+2010,2010,5,Valparaíso,339,Viña Del Mar,38.0
+2010,2010,6,O'Higgins,101,Graneros,1.0
+2010,2010,6,O'Higgins,175,San Francisco De Mostazal,1.0
+2010,2010,6,O'Higgins,259,Rancagua,16.0
+2010,2010,6,O'Higgins,265,Rengo,2.0
+2010,2010,6,O'Higgins,266,Requinoa,2.0
+2010,2010,6,O'Higgins,286,San Fernando,7.0
+2010,2010,6,O'Higgins,302,San Vicente,1.0
+2010,2010,7,Maule,66,Constitución,1.0
+2010,2010,7,Maule,79,Curicó,6.0
+2010,2010,7,Maule,139,Linares,5.0
+2010,2010,7,Maule,204,Parral,2.0
+2010,2010,7,Maule,289,San Javier,1.0
+2010,2010,7,Maule,311,Talca,19.0
+2010,2010,8,Biobío,18,Cabrero,21.0
+2010,2010,8,Biobío,43,Chillán,16.0
+2010,2010,8,Biobío,64,Concepción,39.0
+2010,2010,8,Biobío,70,Coronel,3.0
+2010,2010,8,Biobío,106,Hualpén,1.0
+2010,2010,8,Biobío,107,Hualqui,2.0
+2010,2010,8,Biobío,152,Los Angeles,6.0
+2010,2010,8,Biobío,176,Mulchén,1.0
+2010,2010,8,Biobío,298,San Pedro De La Paz,4.0
+2010,2010,8,Biobío,312,Talcahuano,1.0
+2010,2010,9,Araucanía,8,Angol,1.0
+2010,2010,9,Araucanía,135,Lautaro,14.0
+2010,2010,9,Araucanía,314,Temuco,24.0
+2010,2010,10,Los Lagos,95,Frutillar,4.0
+2010,2010,10,Los Lagos,169,Maullín,1.0
+2010,2010,10,Los Lagos,191,Osorno,6.0
+2010,2010,10,Los Lagos,233,Puerto Montt,9.0
+2010,2010,10,Los Lagos,234,Puerto Octay,1.0
+2010,2010,10,Los Lagos,235,Puerto Varas,1.0
+2010,2010,11,Aysén,54,Coihaique,1.0
+2010,2010,11,Aysén,102,Guaitecas,1.0
+2010,2010,12,Magallanes,225,Porvenir,2.0
+2010,2010,12,Magallanes,238,Punta Arenas,17.0
+2010,2010,13,Region Metropolitana Santiago,14,Buin,3.0
+2010,2010,13,Region Metropolitana Santiago,23,Calera De Tango,3.0
+2010,2010,13,Region Metropolitana Santiago,35,Cerrillos,38.0
+2010,2010,13,Region Metropolitana Santiago,36,Cerro Navia,6.0
+2010,2010,13,Region Metropolitana Santiago,59,Colina,5.0
+2010,2010,13,Region Metropolitana Santiago,65,Conchalí,17.0
+2010,2010,13,Region Metropolitana Santiago,83,El Bosque,8.0
+2010,2010,13,Region Metropolitana Santiago,90,Estacion Central,62.0
+2010,2010,13,Region Metropolitana Santiago,110,Huechuraba,9.0
+2010,2010,13,Region Metropolitana Santiago,112,Independencia,34.0
+2010,2010,13,Region Metropolitana Santiago,117,La Cisterna,21.0
+2010,2010,13,Region Metropolitana Santiago,120,La Florida,39.0
+2010,2010,13,Region Metropolitana Santiago,121,La Granja,7.0
+2010,2010,13,Region Metropolitana Santiago,124,La Pintana,3.0
+2010,2010,13,Region Metropolitana Santiago,125,La Reina,17.0
+2010,2010,13,Region Metropolitana Santiago,134,Las Condes,527.0
+2010,2010,13,Region Metropolitana Santiago,143,Lo Barnechea,32.0
+2010,2010,13,Region Metropolitana Santiago,144,Lo Espejo,1.0
+2010,2010,13,Region Metropolitana Santiago,145,Lo Prado,8.0
+2010,2010,13,Region Metropolitana Santiago,160,Macul,15.0
+2010,2010,13,Region Metropolitana Santiago,162,Maipú,55.0
+2010,2010,13,Region Metropolitana Santiago,172,Melipilla,6.0
+2010,2010,13,Region Metropolitana Santiago,186,Ñuñoa,70.0
+2010,2010,13,Region Metropolitana Santiago,193,Padre Hurtado,3.0
+2010,2010,13,Region Metropolitana Santiago,197,Paine,1.0
+2010,2010,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,5.0
+2010,2010,13,Region Metropolitana Santiago,211,Peñaflor,5.0
+2010,2010,13,Region Metropolitana Santiago,212,Peñalolén,21.0
+2010,2010,13,Region Metropolitana Santiago,221,Pirque,1.0
+2010,2010,13,Region Metropolitana Santiago,228,Providencia,297.0
+2010,2010,13,Region Metropolitana Santiago,231,Pudahuel,13.0
+2010,2010,13,Region Metropolitana Santiago,232,Puente Alto,38.0
+2010,2010,13,Region Metropolitana Santiago,249,Quilicura,28.0
+2010,2010,13,Region Metropolitana Santiago,256,Quinta Normal,12.0
+2010,2010,13,Region Metropolitana Santiago,262,Recoleta,170.0
+2010,2010,13,Region Metropolitana Santiago,264,Renca,4.0
+2010,2010,13,Region Metropolitana Santiago,280,San Bernardo,51.0
+2010,2010,13,Region Metropolitana Santiago,290,San Joaquín,12.0
+2010,2010,13,Region Metropolitana Santiago,291,San José De Maipo,1.0
+2010,2010,13,Region Metropolitana Santiago,293,San Miguel,25.0
+2010,2010,13,Region Metropolitana Santiago,300,San Ramón,5.0
+2010,2010,13,Region Metropolitana Santiago,307,Santiago,778.0
+2010,2010,13,Region Metropolitana Santiago,310,Talagante,3.0
+2010,2010,13,Region Metropolitana Santiago,340,Vitacura,50.0
+2010,2010,13,Region Metropolitana Santiago,346,Lampa,5.0
+2010,2010,14,Los Ríos,196,Paillaco,2.0
+2010,2010,14,Los Ríos,329,Valdivia,11.0
+2010,2010,15,Arica y Parinacota,12,Arica,10.0
+2011,2011,1,Tarapacá,5,Alto Hospicio,5.0
+2011,2011,1,Tarapacá,113,Iquique,510.0
+2011,2011,1,Tarapacá,217,Pica,1.0
+2011,2011,1,Tarapacá,226,Pozo Almonte,5.0
+2011,2011,2,Antofagasta,9,Antofagasta,39.0
+2011,2011,2,Antofagasta,19,Calama,17.0
+2011,2011,2,Antofagasta,170,Mejillones,46.0
+2011,2011,2,Antofagasta,321,Tocopilla,3.0
+2011,2011,3,Atacama,21,Caldera,1.0
+2011,2011,3,Atacama,39,Chañaral,1.0
+2011,2011,3,Atacama,68,Copiapó,40.0
+2011,2011,3,Atacama,81,Diego De Almagro,1.0
+2011,2011,4,Coquimbo,7,Andacollo,13.0
+2011,2011,4,Coquimbo,62,Combarbalá,2.0
+2011,2011,4,Coquimbo,69,Coquimbo,17.0
+2011,2011,4,Coquimbo,111,Illapel,2.0
+2011,2011,4,Coquimbo,126,La Serena,25.0
+2011,2011,4,Coquimbo,192,Ovalle,5.0
+2011,2011,4,Coquimbo,195,Paihuano,2.0
+2011,2011,4,Coquimbo,334,Vicuña,1.0
+2011,2011,5,Valparaíso,22,Calera,2.0
+2011,2011,5,Valparaíso,31,Casablanca,2.0
+2011,2011,5,Valparaíso,115,Isla De Pascua,2.0
+2011,2011,5,Valparaíso,151,Los Andes,3.0
+2011,2011,5,Valparaíso,229,Puchuncaví,2.0
+2011,2011,5,Valparaíso,252,Quillota,7.0
+2011,2011,5,Valparaíso,253,Quilpué,3.0
+2011,2011,5,Valparaíso,279,San Antonio,4.0
+2011,2011,5,Valparaíso,285,San Felipe,7.0
+2011,2011,5,Valparaíso,331,Valparaiso,19.0
+2011,2011,5,Valparaíso,337,Villa Alemana,2.0
+2011,2011,5,Valparaíso,339,Viña Del Mar,52.0
+2011,2011,6,O'Higgins,178,Nancagua,1.0
+2011,2011,6,O'Higgins,199,Palmilla,2.0
+2011,2011,6,O'Higgins,259,Rancagua,15.0
+2011,2011,6,O'Higgins,265,Rengo,2.0
+2011,2011,6,O'Higgins,286,San Fernando,8.0
+2011,2011,6,O'Higgins,302,San Vicente,2.0
+2011,2011,6,O'Higgins,304,Santa Cruz,1.0
+2011,2011,7,Maule,66,Constitución,1.0
+2011,2011,7,Maule,79,Curicó,4.0
+2011,2011,7,Maule,139,Linares,9.0
+2011,2011,7,Maule,173,Molina,1.0
+2011,2011,7,Maule,289,San Javier,1.0
+2011,2011,7,Maule,311,Talca,17.0
+2011,2011,8,Biobío,18,Cabrero,19.0
+2011,2011,8,Biobío,41,Chiguayante,1.0
+2011,2011,8,Biobío,43,Chillán,19.0
+2011,2011,8,Biobío,64,Concepción,36.0
+2011,2011,8,Biobío,70,Coronel,8.0
+2011,2011,8,Biobío,131,Laja,16.0
+2011,2011,8,Biobío,152,Los Angeles,11.0
+2011,2011,8,Biobío,176,Mulchén,1.0
+2011,2011,8,Biobío,281,San Carlos,1.0
+2011,2011,8,Biobío,294,San Nicolás,2.0
+2011,2011,8,Biobío,298,San Pedro De La Paz,2.0
+2011,2011,9,Araucanía,8,Angol,1.0
+2011,2011,9,Araucanía,135,Lautaro,10.0
+2011,2011,9,Araucanía,230,Pucón,5.0
+2011,2011,9,Araucanía,314,Temuco,22.0
+2011,2011,9,Araucanía,333,Victoria,1.0
+2011,2011,9,Araucanía,338,Villarrica,1.0
+2011,2011,10,Los Lagos,95,Frutillar,5.0
+2011,2011,10,Los Lagos,191,Osorno,12.0
+2011,2011,10,Los Lagos,233,Puerto Montt,11.0
+2011,2011,10,Los Lagos,234,Puerto Octay,1.0
+2011,2011,10,Los Lagos,235,Puerto Varas,3.0
+2011,2011,10,Los Lagos,244,Puyehue,1.0
+2011,2011,10,Los Lagos,247,Quemchi,1.0
+2011,2011,10,Los Lagos,273,Rio Negro,1.0
+2011,2011,12,Magallanes,179,Natales,3.0
+2011,2011,12,Magallanes,238,Punta Arenas,21.0
+2011,2011,13,Region Metropolitana Santiago,14,Buin,3.0
+2011,2011,13,Region Metropolitana Santiago,23,Calera De Tango,7.0
+2011,2011,13,Region Metropolitana Santiago,35,Cerrillos,73.0
+2011,2011,13,Region Metropolitana Santiago,36,Cerro Navia,10.0
+2011,2011,13,Region Metropolitana Santiago,59,Colina,8.0
+2011,2011,13,Region Metropolitana Santiago,65,Conchalí,9.0
+2011,2011,13,Region Metropolitana Santiago,83,El Bosque,11.0
+2011,2011,13,Region Metropolitana Santiago,90,Estacion Central,85.0
+2011,2011,13,Region Metropolitana Santiago,110,Huechuraba,11.0
+2011,2011,13,Region Metropolitana Santiago,112,Independencia,32.0
+2011,2011,13,Region Metropolitana Santiago,117,La Cisterna,17.0
+2011,2011,13,Region Metropolitana Santiago,120,La Florida,37.0
+2011,2011,13,Region Metropolitana Santiago,121,La Granja,7.0
+2011,2011,13,Region Metropolitana Santiago,124,La Pintana,2.0
+2011,2011,13,Region Metropolitana Santiago,125,La Reina,24.0
+2011,2011,13,Region Metropolitana Santiago,134,Las Condes,531.0
+2011,2011,13,Region Metropolitana Santiago,143,Lo Barnechea,47.0
+2011,2011,13,Region Metropolitana Santiago,145,Lo Prado,5.0
+2011,2011,13,Region Metropolitana Santiago,160,Macul,11.0
+2011,2011,13,Region Metropolitana Santiago,162,Maipú,61.0
+2011,2011,13,Region Metropolitana Santiago,172,Melipilla,3.0
+2011,2011,13,Region Metropolitana Santiago,186,Ñuñoa,75.0
+2011,2011,13,Region Metropolitana Santiago,193,Padre Hurtado,4.0
+2011,2011,13,Region Metropolitana Santiago,197,Paine,4.0
+2011,2011,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,4.0
+2011,2011,13,Region Metropolitana Santiago,211,Peñaflor,5.0
+2011,2011,13,Region Metropolitana Santiago,212,Peñalolén,23.0
+2011,2011,13,Region Metropolitana Santiago,228,Providencia,205.0
+2011,2011,13,Region Metropolitana Santiago,231,Pudahuel,15.0
+2011,2011,13,Region Metropolitana Santiago,232,Puente Alto,29.0
+2011,2011,13,Region Metropolitana Santiago,249,Quilicura,36.0
+2011,2011,13,Region Metropolitana Santiago,256,Quinta Normal,17.0
+2011,2011,13,Region Metropolitana Santiago,262,Recoleta,212.0
+2011,2011,13,Region Metropolitana Santiago,264,Renca,7.0
+2011,2011,13,Region Metropolitana Santiago,280,San Bernardo,50.0
+2011,2011,13,Region Metropolitana Santiago,290,San Joaquín,4.0
+2011,2011,13,Region Metropolitana Santiago,291,San José De Maipo,1.0
+2011,2011,13,Region Metropolitana Santiago,293,San Miguel,19.0
+2011,2011,13,Region Metropolitana Santiago,300,San Ramón,4.0
+2011,2011,13,Region Metropolitana Santiago,307,Santiago,925.0
+2011,2011,13,Region Metropolitana Santiago,310,Talagante,10.0
+2011,2011,13,Region Metropolitana Santiago,340,Vitacura,40.0
+2011,2011,13,Region Metropolitana Santiago,346,Lampa,8.0
+2011,2011,14,Los Ríos,196,Paillaco,3.0
+2011,2011,14,Los Ríos,329,Valdivia,17.0
+2011,2011,15,Arica y Parinacota,12,Arica,12.0
+2012,2012,1,Tarapacá,5,Alto Hospicio,11.0
+2012,2012,1,Tarapacá,113,Iquique,573.0
+2012,2012,1,Tarapacá,226,Pozo Almonte,16.0
+2012,2012,2,Antofagasta,9,Antofagasta,53.0
+2012,2012,2,Antofagasta,19,Calama,17.0
+2012,2012,2,Antofagasta,170,Mejillones,5.0
+2012,2012,2,Antofagasta,321,Tocopilla,1.0
+2012,2012,3,Atacama,39,Chañaral,1.0
+2012,2012,3,Atacama,68,Copiapó,72.0
+2012,2012,3,Atacama,81,Diego De Almagro,1.0
+2012,2012,3,Atacama,317,Tierra Amarilla,1.0
+2012,2012,3,Atacama,330,Vallenar,4.0
+2012,2012,4,Coquimbo,7,Andacollo,11.0
+2012,2012,4,Coquimbo,69,Coquimbo,26.0
+2012,2012,4,Coquimbo,111,Illapel,1.0
+2012,2012,4,Coquimbo,126,La Serena,98.0
+2012,2012,4,Coquimbo,192,Ovalle,6.0
+2012,2012,4,Coquimbo,195,Paihuano,2.0
+2012,2012,4,Coquimbo,334,Vicuña,1.0
+2012,2012,5,Valparaíso,1,Algarrobo,1.0
+2012,2012,5,Valparaíso,22,Calera,1.0
+2012,2012,5,Valparaíso,31,Casablanca,2.0
+2012,2012,5,Valparaíso,63,Con Cón,3.0
+2012,2012,5,Valparaíso,87,El Tabo,1.0
+2012,2012,5,Valparaíso,115,Isla De Pascua,2.0
+2012,2012,5,Valparaíso,138,Limache,1.0
+2012,2012,5,Valparaíso,142,Llay Llay,2.0
+2012,2012,5,Valparaíso,151,Los Andes,6.0
+2012,2012,5,Valparaíso,252,Quillota,12.0
+2012,2012,5,Valparaíso,253,Quilpué,10.0
+2012,2012,5,Valparaíso,279,San Antonio,9.0
+2012,2012,5,Valparaíso,285,San Felipe,10.0
+2012,2012,5,Valparaíso,308,Santo Domingo,1.0
+2012,2012,5,Valparaíso,331,Valparaiso,24.0
+2012,2012,5,Valparaíso,337,Villa Alemana,3.0
+2012,2012,5,Valparaíso,339,Viña Del Mar,69.0
+2012,2012,6,O'Higgins,178,Nancagua,1.0
+2012,2012,6,O'Higgins,259,Rancagua,20.0
+2012,2012,6,O'Higgins,265,Rengo,4.0
+2012,2012,6,O'Higgins,286,San Fernando,18.0
+2012,2012,6,O'Higgins,302,San Vicente,1.0
+2012,2012,7,Maule,79,Curicó,6.0
+2012,2012,7,Maule,139,Linares,15.0
+2012,2012,7,Maule,173,Molina,2.0
+2012,2012,7,Maule,204,Parral,1.0
+2012,2012,7,Maule,289,San Javier,1.0
+2012,2012,7,Maule,311,Talca,20.0
+2012,2012,8,Biobío,41,Chiguayante,1.0
+2012,2012,8,Biobío,43,Chillán,16.0
+2012,2012,8,Biobío,64,Concepción,49.0
+2012,2012,8,Biobío,70,Coronel,4.0
+2012,2012,8,Biobío,106,Hualpén,2.0
+2012,2012,8,Biobío,107,Hualqui,1.0
+2012,2012,8,Biobío,131,Laja,18.0
+2012,2012,8,Biobío,152,Los Angeles,9.0
+2012,2012,8,Biobío,210,Penco,3.0
+2012,2012,8,Biobío,298,San Pedro De La Paz,2.0
+2012,2012,8,Biobío,312,Talcahuano,2.0
+2012,2012,9,Araucanía,8,Angol,2.0
+2012,2012,9,Araucanía,135,Lautaro,8.0
+2012,2012,9,Araucanía,314,Temuco,22.0
+2012,2012,9,Araucanía,333,Victoria,1.0
+2012,2012,10,Los Lagos,95,Frutillar,3.0
+2012,2012,10,Los Lagos,191,Osorno,12.0
+2012,2012,10,Los Lagos,233,Puerto Montt,12.0
+2012,2012,10,Los Lagos,235,Puerto Varas,2.0
+2012,2012,10,Los Lagos,247,Quemchi,1.0
+2012,2012,11,Aysén,54,Coihaique,5.0
+2012,2012,12,Magallanes,179,Natales,3.0
+2012,2012,12,Magallanes,225,Porvenir,1.0
+2012,2012,12,Magallanes,238,Punta Arenas,17.0
+2012,2012,13,Region Metropolitana Santiago,14,Buin,2.0
+2012,2012,13,Region Metropolitana Santiago,23,Calera De Tango,5.0
+2012,2012,13,Region Metropolitana Santiago,35,Cerrillos,52.0
+2012,2012,13,Region Metropolitana Santiago,36,Cerro Navia,5.0
+2012,2012,13,Region Metropolitana Santiago,59,Colina,14.0
+2012,2012,13,Region Metropolitana Santiago,65,Conchalí,19.0
+2012,2012,13,Region Metropolitana Santiago,83,El Bosque,17.0
+2012,2012,13,Region Metropolitana Santiago,90,Estacion Central,99.0
+2012,2012,13,Region Metropolitana Santiago,110,Huechuraba,13.0
+2012,2012,13,Region Metropolitana Santiago,112,Independencia,49.0
+2012,2012,13,Region Metropolitana Santiago,117,La Cisterna,35.0
+2012,2012,13,Region Metropolitana Santiago,120,La Florida,45.0
+2012,2012,13,Region Metropolitana Santiago,121,La Granja,7.0
+2012,2012,13,Region Metropolitana Santiago,124,La Pintana,5.0
+2012,2012,13,Region Metropolitana Santiago,125,La Reina,18.0
+2012,2012,13,Region Metropolitana Santiago,134,Las Condes,544.0
+2012,2012,13,Region Metropolitana Santiago,143,Lo Barnechea,39.0
+2012,2012,13,Region Metropolitana Santiago,144,Lo Espejo,7.0
+2012,2012,13,Region Metropolitana Santiago,145,Lo Prado,5.0
+2012,2012,13,Region Metropolitana Santiago,160,Macul,23.0
+2012,2012,13,Region Metropolitana Santiago,162,Maipú,51.0
+2012,2012,13,Region Metropolitana Santiago,172,Melipilla,2.0
+2012,2012,13,Region Metropolitana Santiago,186,Ñuñoa,84.0
+2012,2012,13,Region Metropolitana Santiago,193,Padre Hurtado,2.0
+2012,2012,13,Region Metropolitana Santiago,197,Paine,2.0
+2012,2012,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,3.0
+2012,2012,13,Region Metropolitana Santiago,211,Peñaflor,7.0
+2012,2012,13,Region Metropolitana Santiago,212,Peñalolén,22.0
+2012,2012,13,Region Metropolitana Santiago,228,Providencia,200.0
+2012,2012,13,Region Metropolitana Santiago,231,Pudahuel,25.0
+2012,2012,13,Region Metropolitana Santiago,232,Puente Alto,32.0
+2012,2012,13,Region Metropolitana Santiago,249,Quilicura,27.0
+2012,2012,13,Region Metropolitana Santiago,256,Quinta Normal,20.0
+2012,2012,13,Region Metropolitana Santiago,262,Recoleta,277.0
+2012,2012,13,Region Metropolitana Santiago,264,Renca,4.0
+2012,2012,13,Region Metropolitana Santiago,280,San Bernardo,47.0
+2012,2012,13,Region Metropolitana Santiago,290,San Joaquín,8.0
+2012,2012,13,Region Metropolitana Santiago,293,San Miguel,30.0
+2012,2012,13,Region Metropolitana Santiago,300,San Ramón,8.0
+2012,2012,13,Region Metropolitana Santiago,307,Santiago,1025.0
+2012,2012,13,Region Metropolitana Santiago,310,Talagante,10.0
+2012,2012,13,Region Metropolitana Santiago,340,Vitacura,62.0
+2012,2012,13,Region Metropolitana Santiago,346,Lampa,5.0
+2012,2012,14,Los Ríos,127,La Unión,1.0
+2012,2012,14,Los Ríos,269,Rio Bueno,1.0
+2012,2012,14,Los Ríos,329,Valdivia,8.0
+2012,2012,15,Arica y Parinacota,12,Arica,12.0
+2013,2013,1,Tarapacá,5,Alto Hospicio,6.0
+2013,2013,1,Tarapacá,113,Iquique,569.0
+2013,2013,1,Tarapacá,226,Pozo Almonte,15.0
+2013,2013,2,Antofagasta,9,Antofagasta,33.0
+2013,2013,2,Antofagasta,19,Calama,8.0
+2013,2013,2,Antofagasta,170,Mejillones,1.0
+2013,2013,2,Antofagasta,321,Tocopilla,1.0
+2013,2013,3,Atacama,39,Chañaral,4.0
+2013,2013,3,Atacama,68,Copiapó,60.0
+2013,2013,3,Atacama,109,Huasco,2.0
+2013,2013,3,Atacama,330,Vallenar,2.0
+2013,2013,4,Coquimbo,7,Andacollo,1.0
+2013,2013,4,Coquimbo,27,Canela,1.0
+2013,2013,4,Coquimbo,69,Coquimbo,23.0
+2013,2013,4,Coquimbo,111,Illapel,1.0
+2013,2013,4,Coquimbo,126,La Serena,51.0
+2013,2013,4,Coquimbo,192,Ovalle,11.0
+2013,2013,5,Valparaíso,22,Calera,6.0
+2013,2013,5,Valparaíso,31,Casablanca,2.0
+2013,2013,5,Valparaíso,63,Con Cón,2.0
+2013,2013,5,Valparaíso,87,El Tabo,1.0
+2013,2013,5,Valparaíso,118,La Cruz,1.0
+2013,2013,5,Valparaíso,138,Limache,1.0
+2013,2013,5,Valparaíso,151,Los Andes,6.0
+2013,2013,5,Valparaíso,252,Quillota,18.0
+2013,2013,5,Valparaíso,253,Quilpué,12.0
+2013,2013,5,Valparaíso,279,San Antonio,10.0
+2013,2013,5,Valparaíso,285,San Felipe,11.0
+2013,2013,5,Valparaíso,331,Valparaiso,23.0
+2013,2013,5,Valparaíso,337,Villa Alemana,2.0
+2013,2013,5,Valparaíso,339,Viña Del Mar,54.0
+2013,2013,6,O'Higgins,159,Machalí,1.0
+2013,2013,6,O'Higgins,175,San Francisco De Mostazal,2.0
+2013,2013,6,O'Higgins,178,Nancagua,1.0
+2013,2013,6,O'Higgins,199,Palmilla,4.0
+2013,2013,6,O'Higgins,219,Pichilemu,2.0
+2013,2013,6,O'Higgins,259,Rancagua,24.0
+2013,2013,6,O'Higgins,265,Rengo,3.0
+2013,2013,6,O'Higgins,286,San Fernando,32.0
+2013,2013,6,O'Higgins,302,San Vicente,2.0
+2013,2013,6,O'Higgins,304,Santa Cruz,3.0
+2013,2013,7,Maule,66,Constitución,2.0
+2013,2013,7,Maule,79,Curicó,10.0
+2013,2013,7,Maule,105,Hualañé,1.0
+2013,2013,7,Maule,139,Linares,14.0
+2013,2013,7,Maule,173,Molina,2.0
+2013,2013,7,Maule,204,Parral,2.0
+2013,2013,7,Maule,289,San Javier,2.0
+2013,2013,7,Maule,311,Talca,26.0
+2013,2013,8,Biobío,43,Chillán,15.0
+2013,2013,8,Biobío,64,Concepción,36.0
+2013,2013,8,Biobío,70,Coronel,5.0
+2013,2013,8,Biobío,106,Hualpén,2.0
+2013,2013,8,Biobío,131,Laja,23.0
+2013,2013,8,Biobío,152,Los Angeles,15.0
+2013,2013,8,Biobío,176,Mulchén,1.0
+2013,2013,8,Biobío,281,San Carlos,1.0
+2013,2013,8,Biobío,298,San Pedro De La Paz,6.0
+2013,2013,8,Biobío,312,Talcahuano,14.0
+2013,2013,9,Araucanía,135,Lautaro,4.0
+2013,2013,9,Araucanía,314,Temuco,68.0
+2013,2013,9,Araucanía,333,Victoria,1.0
+2013,2013,10,Los Lagos,32,Castro,1.0
+2013,2013,10,Los Lagos,95,Frutillar,1.0
+2013,2013,10,Los Lagos,191,Osorno,21.0
+2013,2013,10,Los Lagos,233,Puerto Montt,6.0
+2013,2013,10,Los Lagos,235,Puerto Varas,5.0
+2013,2013,10,Los Lagos,241,Purranque,2.0
+2013,2013,11,Aysén,54,Coihaique,1.0
+2013,2013,12,Magallanes,179,Natales,3.0
+2013,2013,12,Magallanes,238,Punta Arenas,15.0
+2013,2013,13,Region Metropolitana Santiago,14,Buin,6.0
+2013,2013,13,Region Metropolitana Santiago,35,Cerrillos,45.0
+2013,2013,13,Region Metropolitana Santiago,36,Cerro Navia,3.0
+2013,2013,13,Region Metropolitana Santiago,59,Colina,16.0
+2013,2013,13,Region Metropolitana Santiago,65,Conchalí,10.0
+2013,2013,13,Region Metropolitana Santiago,83,El Bosque,12.0
+2013,2013,13,Region Metropolitana Santiago,90,Estacion Central,96.0
+2013,2013,13,Region Metropolitana Santiago,110,Huechuraba,9.0
+2013,2013,13,Region Metropolitana Santiago,112,Independencia,51.0
+2013,2013,13,Region Metropolitana Santiago,114,Isla De Maipo,1.0
+2013,2013,13,Region Metropolitana Santiago,117,La Cisterna,16.0
+2013,2013,13,Region Metropolitana Santiago,120,La Florida,34.0
+2013,2013,13,Region Metropolitana Santiago,121,La Granja,2.0
+2013,2013,13,Region Metropolitana Santiago,124,La Pintana,4.0
+2013,2013,13,Region Metropolitana Santiago,125,La Reina,24.0
+2013,2013,13,Region Metropolitana Santiago,134,Las Condes,540.0
+2013,2013,13,Region Metropolitana Santiago,143,Lo Barnechea,45.0
+2013,2013,13,Region Metropolitana Santiago,144,Lo Espejo,6.0
+2013,2013,13,Region Metropolitana Santiago,145,Lo Prado,9.0
+2013,2013,13,Region Metropolitana Santiago,160,Macul,13.0
+2013,2013,13,Region Metropolitana Santiago,162,Maipú,46.0
+2013,2013,13,Region Metropolitana Santiago,172,Melipilla,2.0
+2013,2013,13,Region Metropolitana Santiago,186,Ñuñoa,79.0
+2013,2013,13,Region Metropolitana Santiago,193,Padre Hurtado,1.0
+2013,2013,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,4.0
+2013,2013,13,Region Metropolitana Santiago,211,Peñaflor,1.0
+2013,2013,13,Region Metropolitana Santiago,212,Peñalolén,14.0
+2013,2013,13,Region Metropolitana Santiago,228,Providencia,202.0
+2013,2013,13,Region Metropolitana Santiago,231,Pudahuel,21.0
+2013,2013,13,Region Metropolitana Santiago,232,Puente Alto,32.0
+2013,2013,13,Region Metropolitana Santiago,249,Quilicura,22.0
+2013,2013,13,Region Metropolitana Santiago,256,Quinta Normal,11.0
+2013,2013,13,Region Metropolitana Santiago,262,Recoleta,263.0
+2013,2013,13,Region Metropolitana Santiago,264,Renca,7.0
+2013,2013,13,Region Metropolitana Santiago,280,San Bernardo,52.0
+2013,2013,13,Region Metropolitana Santiago,290,San Joaquín,9.0
+2013,2013,13,Region Metropolitana Santiago,293,San Miguel,22.0
+2013,2013,13,Region Metropolitana Santiago,300,San Ramón,6.0
+2013,2013,13,Region Metropolitana Santiago,307,Santiago,1125.0
+2013,2013,13,Region Metropolitana Santiago,310,Talagante,9.0
+2013,2013,13,Region Metropolitana Santiago,340,Vitacura,48.0
+2013,2013,13,Region Metropolitana Santiago,346,Lampa,7.0
+2013,2013,14,Los Ríos,127,La Unión,2.0
+2013,2013,14,Los Ríos,329,Valdivia,15.0
+2013,2013,15,Arica y Parinacota,12,Arica,7.0
+2014,2014,1,Tarapacá,5,Alto Hospicio,11.0
+2014,2014,1,Tarapacá,113,Iquique,564.0
+2014,2014,1,Tarapacá,217,Pica,2.0
+2014,2014,1,Tarapacá,226,Pozo Almonte,17.0
+2014,2014,2,Antofagasta,9,Antofagasta,32.0
+2014,2014,2,Antofagasta,19,Calama,7.0
+2014,2014,2,Antofagasta,170,Mejillones,27.0
+2014,2014,2,Antofagasta,321,Tocopilla,1.0
+2014,2014,3,Atacama,39,Chañaral,1.0
+2014,2014,3,Atacama,68,Copiapó,95.0
+2014,2014,3,Atacama,81,Diego De Almagro,2.0
+2014,2014,3,Atacama,109,Huasco,54.0
+2014,2014,3,Atacama,330,Vallenar,8.0
+2014,2014,4,Coquimbo,69,Coquimbo,29.0
+2014,2014,4,Coquimbo,126,La Serena,68.0
+2014,2014,4,Coquimbo,192,Ovalle,22.0
+2014,2014,4,Coquimbo,195,Paihuano,2.0
+2014,2014,4,Coquimbo,278,Salamanca,2.0
+2014,2014,5,Valparaíso,22,Calera,4.0
+2014,2014,5,Valparaíso,31,Casablanca,1.0
+2014,2014,5,Valparaíso,63,Con Cón,8.0
+2014,2014,5,Valparaíso,115,Isla De Pascua,1.0
+2014,2014,5,Valparaíso,118,La Cruz,2.0
+2014,2014,5,Valparaíso,138,Limache,1.0
+2014,2014,5,Valparaíso,151,Los Andes,10.0
+2014,2014,5,Valparaíso,229,Puchuncaví,1.0
+2014,2014,5,Valparaíso,252,Quillota,27.0
+2014,2014,5,Valparaíso,253,Quilpué,11.0
+2014,2014,5,Valparaíso,279,San Antonio,41.0
+2014,2014,5,Valparaíso,283,San Esteban,1.0
+2014,2014,5,Valparaíso,285,San Felipe,13.0
+2014,2014,5,Valparaíso,308,Santo Domingo,1.0
+2014,2014,5,Valparaíso,331,Valparaiso,47.0
+2014,2014,5,Valparaíso,337,Villa Alemana,2.0
+2014,2014,5,Valparaíso,339,Viña Del Mar,77.0
+2014,2014,6,O'Higgins,159,Machalí,2.0
+2014,2014,6,O'Higgins,199,Palmilla,3.0
+2014,2014,6,O'Higgins,219,Pichilemu,1.0
+2014,2014,6,O'Higgins,259,Rancagua,26.0
+2014,2014,6,O'Higgins,265,Rengo,2.0
+2014,2014,6,O'Higgins,266,Requinoa,1.0
+2014,2014,6,O'Higgins,286,San Fernando,15.0
+2014,2014,6,O'Higgins,302,San Vicente,1.0
+2014,2014,6,O'Higgins,304,Santa Cruz,5.0
+2014,2014,7,Maule,34,Cauquenes,7.0
+2014,2014,7,Maule,57,Colbún,1.0
+2014,2014,7,Maule,79,Curicó,21.0
+2014,2014,7,Maule,139,Linares,41.0
+2014,2014,7,Maule,173,Molina,1.0
+2014,2014,7,Maule,204,Parral,3.0
+2014,2014,7,Maule,261,Rauco,1.0
+2014,2014,7,Maule,289,San Javier,3.0
+2014,2014,7,Maule,311,Talca,27.0
+2014,2014,8,Biobío,18,Cabrero,2.0
+2014,2014,8,Biobío,43,Chillán,16.0
+2014,2014,8,Biobío,64,Concepción,57.0
+2014,2014,8,Biobío,70,Coronel,7.0
+2014,2014,8,Biobío,107,Hualqui,1.0
+2014,2014,8,Biobío,131,Laja,14.0
+2014,2014,8,Biobío,152,Los Angeles,12.0
+2014,2014,8,Biobío,157,Lota,1.0
+2014,2014,8,Biobío,176,Mulchén,2.0
+2014,2014,8,Biobío,281,San Carlos,3.0
+2014,2014,8,Biobío,298,San Pedro De La Paz,12.0
+2014,2014,8,Biobío,312,Talcahuano,17.0
+2014,2014,9,Araucanía,135,Lautaro,6.0
+2014,2014,9,Araucanía,184,Nueva Imperial,4.0
+2014,2014,9,Araucanía,314,Temuco,36.0
+2014,2014,9,Araucanía,333,Victoria,5.0
+2014,2014,9,Araucanía,338,Villarrica,1.0
+2014,2014,10,Los Lagos,32,Castro,3.0
+2014,2014,10,Los Lagos,154,Los Muermos,1.0
+2014,2014,10,Los Lagos,191,Osorno,17.0
+2014,2014,10,Los Lagos,233,Puerto Montt,13.0
+2014,2014,10,Los Lagos,235,Puerto Varas,7.0
+2014,2014,11,Aysén,54,Coihaique,3.0
+2014,2014,12,Magallanes,179,Natales,5.0
+2014,2014,12,Magallanes,238,Punta Arenas,16.0
+2014,2014,13,Region Metropolitana Santiago,14,Buin,5.0
+2014,2014,13,Region Metropolitana Santiago,23,Calera De Tango,32.0
+2014,2014,13,Region Metropolitana Santiago,35,Cerrillos,55.0
+2014,2014,13,Region Metropolitana Santiago,36,Cerro Navia,2.0
+2014,2014,13,Region Metropolitana Santiago,59,Colina,14.0
+2014,2014,13,Region Metropolitana Santiago,65,Conchalí,8.0
+2014,2014,13,Region Metropolitana Santiago,83,El Bosque,14.0
+2014,2014,13,Region Metropolitana Santiago,85,El Monte,1.0
+2014,2014,13,Region Metropolitana Santiago,90,Estacion Central,87.0
+2014,2014,13,Region Metropolitana Santiago,110,Huechuraba,14.0
+2014,2014,13,Region Metropolitana Santiago,112,Independencia,46.0
+2014,2014,13,Region Metropolitana Santiago,117,La Cisterna,26.0
+2014,2014,13,Region Metropolitana Santiago,120,La Florida,36.0
+2014,2014,13,Region Metropolitana Santiago,121,La Granja,3.0
+2014,2014,13,Region Metropolitana Santiago,124,La Pintana,5.0
+2014,2014,13,Region Metropolitana Santiago,125,La Reina,17.0
+2014,2014,13,Region Metropolitana Santiago,134,Las Condes,571.0
+2014,2014,13,Region Metropolitana Santiago,143,Lo Barnechea,58.0
+2014,2014,13,Region Metropolitana Santiago,144,Lo Espejo,3.0
+2014,2014,13,Region Metropolitana Santiago,145,Lo Prado,4.0
+2014,2014,13,Region Metropolitana Santiago,160,Macul,14.0
+2014,2014,13,Region Metropolitana Santiago,162,Maipú,37.0
+2014,2014,13,Region Metropolitana Santiago,172,Melipilla,4.0
+2014,2014,13,Region Metropolitana Santiago,186,Ñuñoa,82.0
+2014,2014,13,Region Metropolitana Santiago,193,Padre Hurtado,2.0
+2014,2014,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,2.0
+2014,2014,13,Region Metropolitana Santiago,211,Peñaflor,3.0
+2014,2014,13,Region Metropolitana Santiago,212,Peñalolén,10.0
+2014,2014,13,Region Metropolitana Santiago,221,Pirque,1.0
+2014,2014,13,Region Metropolitana Santiago,228,Providencia,238.0
+2014,2014,13,Region Metropolitana Santiago,231,Pudahuel,18.0
+2014,2014,13,Region Metropolitana Santiago,232,Puente Alto,34.0
+2014,2014,13,Region Metropolitana Santiago,249,Quilicura,31.0
+2014,2014,13,Region Metropolitana Santiago,256,Quinta Normal,7.0
+2014,2014,13,Region Metropolitana Santiago,262,Recoleta,275.0
+2014,2014,13,Region Metropolitana Santiago,264,Renca,6.0
+2014,2014,13,Region Metropolitana Santiago,280,San Bernardo,88.0
+2014,2014,13,Region Metropolitana Santiago,290,San Joaquín,7.0
+2014,2014,13,Region Metropolitana Santiago,291,San José De Maipo,2.0
+2014,2014,13,Region Metropolitana Santiago,293,San Miguel,26.0
+2014,2014,13,Region Metropolitana Santiago,300,San Ramón,7.0
+2014,2014,13,Region Metropolitana Santiago,307,Santiago,1144.0
+2014,2014,13,Region Metropolitana Santiago,310,Talagante,12.0
+2014,2014,13,Region Metropolitana Santiago,340,Vitacura,62.0
+2014,2014,13,Region Metropolitana Santiago,346,Lampa,9.0
+2014,2014,14,Los Ríos,127,La Unión,2.0
+2014,2014,14,Los Ríos,196,Paillaco,3.0
+2014,2014,14,Los Ríos,269,Rio Bueno,1.0
+2014,2014,14,Los Ríos,329,Valdivia,17.0
+2014,2014,15,Arica y Parinacota,12,Arica,7.0
+2015,2015,1,Tarapacá,5,Alto Hospicio,10.0
+2015,2015,1,Tarapacá,113,Iquique,588.0
+2015,2015,1,Tarapacá,226,Pozo Almonte,6.0
+2015,2015,2,Antofagasta,9,Antofagasta,88.0
+2015,2015,2,Antofagasta,19,Calama,14.0
+2015,2015,2,Antofagasta,170,Mejillones,129.0
+2015,2015,2,Antofagasta,313,Taltal,1.0
+2015,2015,2,Antofagasta,321,Tocopilla,2.0
+2015,2015,3,Atacama,68,Copiapó,72.0
+2015,2015,3,Atacama,81,Diego De Almagro,1.0
+2015,2015,3,Atacama,109,Huasco,37.0
+2015,2015,3,Atacama,317,Tierra Amarilla,1.0
+2015,2015,3,Atacama,330,Vallenar,21.0
+2015,2015,4,Coquimbo,7,Andacollo,2.0
+2015,2015,4,Coquimbo,69,Coquimbo,24.0
+2015,2015,4,Coquimbo,126,La Serena,106.0
+2015,2015,4,Coquimbo,192,Ovalle,12.0
+2015,2015,4,Coquimbo,195,Paihuano,4.0
+2015,2015,4,Coquimbo,334,Vicuña,2.0
+2015,2015,5,Valparaíso,1,Algarrobo,1.0
+2015,2015,5,Valparaíso,22,Calera,8.0
+2015,2015,5,Valparaíso,63,Con Cón,2.0
+2015,2015,5,Valparaíso,103,Hijuelas,1.0
+2015,2015,5,Valparaíso,115,Isla De Pascua,1.0
+2015,2015,5,Valparaíso,118,La Cruz,1.0
+2015,2015,5,Valparaíso,123,La Ligua,7.0
+2015,2015,5,Valparaíso,138,Limache,4.0
+2015,2015,5,Valparaíso,142,Llay Llay,1.0
+2015,2015,5,Valparaíso,151,Los Andes,6.0
+2015,2015,5,Valparaíso,252,Quillota,34.0
+2015,2015,5,Valparaíso,253,Quilpué,9.0
+2015,2015,5,Valparaíso,279,San Antonio,40.0
+2015,2015,5,Valparaíso,285,San Felipe,13.0
+2015,2015,5,Valparaíso,331,Valparaiso,64.0
+2015,2015,5,Valparaíso,337,Villa Alemana,7.0
+2015,2015,5,Valparaíso,339,Viña Del Mar,76.0
+2015,2015,6,O'Higgins,101,Graneros,1.0
+2015,2015,6,O'Higgins,159,Machalí,1.0
+2015,2015,6,O'Higgins,178,Nancagua,1.0
+2015,2015,6,O'Higgins,199,Palmilla,5.0
+2015,2015,6,O'Higgins,219,Pichilemu,1.0
+2015,2015,6,O'Higgins,259,Rancagua,32.0
+2015,2015,6,O'Higgins,265,Rengo,1.0
+2015,2015,6,O'Higgins,266,Requinoa,1.0
+2015,2015,6,O'Higgins,286,San Fernando,23.0
+2015,2015,6,O'Higgins,302,San Vicente,2.0
+2015,2015,6,O'Higgins,304,Santa Cruz,4.0
+2015,2015,7,Maule,34,Cauquenes,8.0
+2015,2015,7,Maule,57,Colbún,1.0
+2015,2015,7,Maule,66,Constitución,7.0
+2015,2015,7,Maule,79,Curicó,17.0
+2015,2015,7,Maule,139,Linares,39.0
+2015,2015,7,Maule,168,Maule,1.0
+2015,2015,7,Maule,173,Molina,1.0
+2015,2015,7,Maule,204,Parral,3.0
+2015,2015,7,Maule,289,San Javier,13.0
+2015,2015,7,Maule,311,Talca,46.0
+2015,2015,8,Biobío,11,Arauco,1.0
+2015,2015,8,Biobío,18,Cabrero,1.0
+2015,2015,8,Biobío,28,Cañete,3.0
+2015,2015,8,Biobío,41,Chiguayante,3.0
+2015,2015,8,Biobío,43,Chillán,25.0
+2015,2015,8,Biobío,64,Concepción,70.0
+2015,2015,8,Biobío,70,Coronel,14.0
+2015,2015,8,Biobío,106,Hualpén,3.0
+2015,2015,8,Biobío,136,Lebu,1.0
+2015,2015,8,Biobío,152,Los Angeles,25.0
+2015,2015,8,Biobío,157,Lota,3.0
+2015,2015,8,Biobío,176,Mulchén,3.0
+2015,2015,8,Biobío,177,Nacimiento,1.0
+2015,2015,8,Biobío,281,San Carlos,3.0
+2015,2015,8,Biobío,298,San Pedro De La Paz,6.0
+2015,2015,8,Biobío,312,Talcahuano,62.0
+2015,2015,8,Biobío,343,Yungay,2.0
+2015,2015,9,Araucanía,8,Angol,5.0
+2015,2015,9,Araucanía,60,Collipulli,2.0
+2015,2015,9,Araucanía,135,Lautaro,7.0
+2015,2015,9,Araucanía,147,Loncoche,2.0
+2015,2015,9,Araucanía,184,Nueva Imperial,1.0
+2015,2015,9,Araucanía,230,Pucón,1.0
+2015,2015,9,Araucanía,263,Renaico,1.0
+2015,2015,9,Araucanía,314,Temuco,74.0
+2015,2015,9,Araucanía,333,Victoria,2.0
+2015,2015,9,Araucanía,338,Villarrica,2.0
+2015,2015,10,Los Lagos,6,Ancud,4.0
+2015,2015,10,Los Lagos,20,Calbuco,25.0
+2015,2015,10,Los Lagos,32,Castro,7.0
+2015,2015,10,Los Lagos,95,Frutillar,1.0
+2015,2015,10,Los Lagos,191,Osorno,33.0
+2015,2015,10,Los Lagos,233,Puerto Montt,28.0
+2015,2015,10,Los Lagos,235,Puerto Varas,9.0
+2015,2015,10,Los Lagos,241,Purranque,2.0
+2015,2015,11,Aysén,13,Aysén,1.0
+2015,2015,11,Aysén,54,Coihaique,1.0
+2015,2015,12,Magallanes,179,Natales,3.0
+2015,2015,12,Magallanes,238,Punta Arenas,9.0
+2015,2015,13,Region Metropolitana Santiago,14,Buin,12.0
+2015,2015,13,Region Metropolitana Santiago,23,Calera De Tango,9.0
+2015,2015,13,Region Metropolitana Santiago,35,Cerrillos,64.0
+2015,2015,13,Region Metropolitana Santiago,36,Cerro Navia,8.0
+2015,2015,13,Region Metropolitana Santiago,59,Colina,18.0
+2015,2015,13,Region Metropolitana Santiago,65,Conchalí,11.0
+2015,2015,13,Region Metropolitana Santiago,83,El Bosque,22.0
+2015,2015,13,Region Metropolitana Santiago,90,Estacion Central,108.0
+2015,2015,13,Region Metropolitana Santiago,110,Huechuraba,20.0
+2015,2015,13,Region Metropolitana Santiago,112,Independencia,63.0
+2015,2015,13,Region Metropolitana Santiago,117,La Cisterna,27.0
+2015,2015,13,Region Metropolitana Santiago,120,La Florida,33.0
+2015,2015,13,Region Metropolitana Santiago,121,La Granja,5.0
+2015,2015,13,Region Metropolitana Santiago,124,La Pintana,4.0
+2015,2015,13,Region Metropolitana Santiago,125,La Reina,29.0
+2015,2015,13,Region Metropolitana Santiago,134,Las Condes,670.0
+2015,2015,13,Region Metropolitana Santiago,143,Lo Barnechea,91.0
+2015,2015,13,Region Metropolitana Santiago,144,Lo Espejo,1.0
+2015,2015,13,Region Metropolitana Santiago,145,Lo Prado,5.0
+2015,2015,13,Region Metropolitana Santiago,160,Macul,14.0
+2015,2015,13,Region Metropolitana Santiago,162,Maipú,48.0
+2015,2015,13,Region Metropolitana Santiago,172,Melipilla,3.0
+2015,2015,13,Region Metropolitana Santiago,186,Ñuñoa,114.0
+2015,2015,13,Region Metropolitana Santiago,193,Padre Hurtado,5.0
+2015,2015,13,Region Metropolitana Santiago,197,Paine,25.0
+2015,2015,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,10.0
+2015,2015,13,Region Metropolitana Santiago,211,Peñaflor,4.0
+2015,2015,13,Region Metropolitana Santiago,212,Peñalolén,20.0
+2015,2015,13,Region Metropolitana Santiago,228,Providencia,359.0
+2015,2015,13,Region Metropolitana Santiago,231,Pudahuel,35.0
+2015,2015,13,Region Metropolitana Santiago,232,Puente Alto,39.0
+2015,2015,13,Region Metropolitana Santiago,249,Quilicura,28.0
+2015,2015,13,Region Metropolitana Santiago,256,Quinta Normal,10.0
+2015,2015,13,Region Metropolitana Santiago,262,Recoleta,273.0
+2015,2015,13,Region Metropolitana Santiago,264,Renca,16.0
+2015,2015,13,Region Metropolitana Santiago,280,San Bernardo,125.0
+2015,2015,13,Region Metropolitana Santiago,290,San Joaquín,11.0
+2015,2015,13,Region Metropolitana Santiago,293,San Miguel,27.0
+2015,2015,13,Region Metropolitana Santiago,300,San Ramón,8.0
+2015,2015,13,Region Metropolitana Santiago,307,Santiago,1389.0
+2015,2015,13,Region Metropolitana Santiago,310,Talagante,6.0
+2015,2015,13,Region Metropolitana Santiago,340,Vitacura,80.0
+2015,2015,13,Region Metropolitana Santiago,346,Lampa,10.0
+2015,2015,14,Los Ríos,127,La Unión,5.0
+2015,2015,14,Los Ríos,196,Paillaco,4.0
+2015,2015,14,Los Ríos,329,Valdivia,23.0
+2015,2015,15,Arica y Parinacota,12,Arica,11.0
+2016,2016,1,Tarapacá,5,Alto Hospicio,11.0
+2016,2016,1,Tarapacá,108,Huara,1.0
+2016,2016,1,Tarapacá,113,Iquique,491.0
+2016,2016,1,Tarapacá,226,Pozo Almonte,6.0
+2016,2016,2,Antofagasta,9,Antofagasta,137.0
+2016,2016,2,Antofagasta,19,Calama,12.0
+2016,2016,2,Antofagasta,170,Mejillones,101.0
+2016,2016,2,Antofagasta,321,Tocopilla,6.0
+2016,2016,3,Atacama,21,Caldera,1.0
+2016,2016,3,Atacama,68,Copiapó,41.0
+2016,2016,3,Atacama,81,Diego De Almagro,1.0
+2016,2016,3,Atacama,109,Huasco,2.0
+2016,2016,3,Atacama,330,Vallenar,18.0
+2016,2016,4,Coquimbo,27,Canela,1.0
+2016,2016,4,Coquimbo,69,Coquimbo,50.0
+2016,2016,4,Coquimbo,111,Illapel,4.0
+2016,2016,4,Coquimbo,126,La Serena,62.0
+2016,2016,4,Coquimbo,192,Ovalle,20.0
+2016,2016,4,Coquimbo,195,Paihuano,1.0
+2016,2016,4,Coquimbo,278,Salamanca,1.0
+2016,2016,4,Coquimbo,334,Vicuña,3.0
+2016,2016,5,Valparaíso,1,Algarrobo,1.0
+2016,2016,5,Valparaíso,22,Calera,3.0
+2016,2016,5,Valparaíso,30,Cartagena,1.0
+2016,2016,5,Valparaíso,31,Casablanca,2.0
+2016,2016,5,Valparaíso,63,Con Cón,1.0
+2016,2016,5,Valparaíso,115,Isla De Pascua,3.0
+2016,2016,5,Valparaíso,123,La Ligua,7.0
+2016,2016,5,Valparaíso,138,Limache,7.0
+2016,2016,5,Valparaíso,151,Los Andes,8.0
+2016,2016,5,Valparaíso,190,Olmué,1.0
+2016,2016,5,Valparaíso,252,Quillota,43.0
+2016,2016,5,Valparaíso,253,Quilpué,13.0
+2016,2016,5,Valparaíso,257,Quintero,2.0
+2016,2016,5,Valparaíso,279,San Antonio,64.0
+2016,2016,5,Valparaíso,285,San Felipe,11.0
+2016,2016,5,Valparaíso,306,Santa Maria,1.0
+2016,2016,5,Valparaíso,331,Valparaiso,88.0
+2016,2016,5,Valparaíso,337,Villa Alemana,11.0
+2016,2016,5,Valparaíso,339,Viña Del Mar,87.0
+2016,2016,5,Valparaíso,344,Zapallar,1.0
+2016,2016,6,O'Higgins,159,Machalí,2.0
+2016,2016,6,O'Higgins,178,Nancagua,2.0
+2016,2016,6,O'Higgins,199,Palmilla,1.0
+2016,2016,6,O'Higgins,259,Rancagua,61.0
+2016,2016,6,O'Higgins,265,Rengo,1.0
+2016,2016,6,O'Higgins,286,San Fernando,18.0
+2016,2016,6,O'Higgins,302,San Vicente,3.0
+2016,2016,6,O'Higgins,304,Santa Cruz,11.0
+2016,2016,7,Maule,34,Cauquenes,4.0
+2016,2016,7,Maule,57,Colbún,1.0
+2016,2016,7,Maule,66,Constitución,6.0
+2016,2016,7,Maule,79,Curicó,24.0
+2016,2016,7,Maule,139,Linares,25.0
+2016,2016,7,Maule,173,Molina,6.0
+2016,2016,7,Maule,204,Parral,4.0
+2016,2016,7,Maule,209,Pencahue,1.0
+2016,2016,7,Maule,282,San Clemente,3.0
+2016,2016,7,Maule,289,San Javier,24.0
+2016,2016,7,Maule,311,Talca,47.0
+2016,2016,7,Maule,315,Teno,1.0
+2016,2016,8,Biobío,10,Antuco,1.0
+2016,2016,8,Biobío,11,Arauco,2.0
+2016,2016,8,Biobío,18,Cabrero,4.0
+2016,2016,8,Biobío,28,Cañete,8.0
+2016,2016,8,Biobío,41,Chiguayante,4.0
+2016,2016,8,Biobío,43,Chillán,25.0
+2016,2016,8,Biobío,53,Coelemu,2.0
+2016,2016,8,Biobío,64,Concepción,73.0
+2016,2016,8,Biobío,70,Coronel,5.0
+2016,2016,8,Biobío,76,Curanilahue,3.0
+2016,2016,8,Biobío,131,Laja,1.0
+2016,2016,8,Biobío,152,Los Angeles,31.0
+2016,2016,8,Biobío,157,Lota,1.0
+2016,2016,8,Biobío,176,Mulchén,5.0
+2016,2016,8,Biobío,177,Nacimiento,3.0
+2016,2016,8,Biobío,210,Penco,6.0
+2016,2016,8,Biobío,281,San Carlos,10.0
+2016,2016,8,Biobío,298,San Pedro De La Paz,5.0
+2016,2016,8,Biobío,312,Talcahuano,75.0
+2016,2016,8,Biobío,342,Yumbel,3.0
+2016,2016,9,Araucanía,8,Angol,12.0
+2016,2016,9,Araucanía,29,Carahue,3.0
+2016,2016,9,Araucanía,60,Collipulli,3.0
+2016,2016,9,Araucanía,92,Freire,1.0
+2016,2016,9,Araucanía,98,Galvarino,1.0
+2016,2016,9,Araucanía,100,Gorbea,2.0
+2016,2016,9,Araucanía,135,Lautaro,10.0
+2016,2016,9,Araucanía,147,Loncoche,3.0
+2016,2016,9,Araucanía,171,Melipeuco,1.0
+2016,2016,9,Araucanía,184,Nueva Imperial,3.0
+2016,2016,9,Araucanía,222,Pitrufquén,1.0
+2016,2016,9,Araucanía,230,Pucón,4.0
+2016,2016,9,Araucanía,240,Purén,1.0
+2016,2016,9,Araucanía,263,Renaico,1.0
+2016,2016,9,Araucanía,314,Temuco,70.0
+2016,2016,9,Araucanía,326,Traiguén,5.0
+2016,2016,9,Araucanía,333,Victoria,6.0
+2016,2016,9,Araucanía,338,Villarrica,4.0
+2016,2016,10,Los Lagos,6,Ancud,5.0
+2016,2016,10,Los Lagos,20,Calbuco,14.0
+2016,2016,10,Los Lagos,32,Castro,7.0
+2016,2016,10,Los Lagos,80,Dalcahue,1.0
+2016,2016,10,Los Lagos,95,Frutillar,1.0
+2016,2016,10,Los Lagos,154,Los Muermos,1.0
+2016,2016,10,Los Lagos,169,Maullín,1.0
+2016,2016,10,Los Lagos,191,Osorno,31.0
+2016,2016,10,Los Lagos,233,Puerto Montt,34.0
+2016,2016,10,Los Lagos,235,Puerto Varas,10.0
+2016,2016,10,Los Lagos,241,Purranque,4.0
+2016,2016,11,Aysén,48,Cisnes,1.0
+2016,2016,11,Aysén,54,Coihaique,3.0
+2016,2016,12,Magallanes,179,Natales,4.0
+2016,2016,12,Magallanes,225,Porvenir,1.0
+2016,2016,12,Magallanes,238,Punta Arenas,21.0
+2016,2016,13,Region Metropolitana Santiago,14,Buin,29.0
+2016,2016,13,Region Metropolitana Santiago,23,Calera De Tango,8.0
+2016,2016,13,Region Metropolitana Santiago,35,Cerrillos,38.0
+2016,2016,13,Region Metropolitana Santiago,36,Cerro Navia,7.0
+2016,2016,13,Region Metropolitana Santiago,59,Colina,33.0
+2016,2016,13,Region Metropolitana Santiago,65,Conchalí,7.0
+2016,2016,13,Region Metropolitana Santiago,74,Curacaví,2.0
+2016,2016,13,Region Metropolitana Santiago,83,El Bosque,26.0
+2016,2016,13,Region Metropolitana Santiago,85,El Monte,1.0
+2016,2016,13,Region Metropolitana Santiago,90,Estacion Central,112.0
+2016,2016,13,Region Metropolitana Santiago,110,Huechuraba,9.0
+2016,2016,13,Region Metropolitana Santiago,112,Independencia,41.0
+2016,2016,13,Region Metropolitana Santiago,114,Isla De Maipo,1.0
+2016,2016,13,Region Metropolitana Santiago,117,La Cisterna,35.0
+2016,2016,13,Region Metropolitana Santiago,120,La Florida,35.0
+2016,2016,13,Region Metropolitana Santiago,121,La Granja,4.0
+2016,2016,13,Region Metropolitana Santiago,124,La Pintana,7.0
+2016,2016,13,Region Metropolitana Santiago,125,La Reina,33.0
+2016,2016,13,Region Metropolitana Santiago,134,Las Condes,541.0
+2016,2016,13,Region Metropolitana Santiago,143,Lo Barnechea,106.0
+2016,2016,13,Region Metropolitana Santiago,144,Lo Espejo,2.0
+2016,2016,13,Region Metropolitana Santiago,145,Lo Prado,5.0
+2016,2016,13,Region Metropolitana Santiago,160,Macul,22.0
+2016,2016,13,Region Metropolitana Santiago,162,Maipú,62.0
+2016,2016,13,Region Metropolitana Santiago,172,Melipilla,7.0
+2016,2016,13,Region Metropolitana Santiago,186,Ñuñoa,121.0
+2016,2016,13,Region Metropolitana Santiago,193,Padre Hurtado,3.0
+2016,2016,13,Region Metropolitana Santiago,197,Paine,6.0
+2016,2016,13,Region Metropolitana Santiago,205,Pedro Aguirre Cerda,11.0
+2016,2016,13,Region Metropolitana Santiago,211,Peñaflor,5.0
+2016,2016,13,Region Metropolitana Santiago,212,Peñalolén,17.0
+2016,2016,13,Region Metropolitana Santiago,221,Pirque,2.0
+2016,2016,13,Region Metropolitana Santiago,228,Providencia,228.0
+2016,2016,13,Region Metropolitana Santiago,231,Pudahuel,22.0
+2016,2016,13,Region Metropolitana Santiago,232,Puente Alto,47.0
+2016,2016,13,Region Metropolitana Santiago,249,Quilicura,25.0
+2016,2016,13,Region Metropolitana Santiago,256,Quinta Normal,18.0
+2016,2016,13,Region Metropolitana Santiago,262,Recoleta,172.0
+2016,2016,13,Region Metropolitana Santiago,264,Renca,10.0
+2016,2016,13,Region Metropolitana Santiago,280,San Bernardo,187.0
+2016,2016,13,Region Metropolitana Santiago,290,San Joaquín,12.0
+2016,2016,13,Region Metropolitana Santiago,293,San Miguel,71.0
+2016,2016,13,Region Metropolitana Santiago,300,San Ramón,22.0
+2016,2016,13,Region Metropolitana Santiago,307,Santiago,1433.0
+2016,2016,13,Region Metropolitana Santiago,310,Talagante,4.0
+2016,2016,13,Region Metropolitana Santiago,340,Vitacura,65.0
+2016,2016,13,Region Metropolitana Santiago,346,Lampa,15.0
+2016,2016,14,Los Ríos,127,La Unión,6.0
+2016,2016,14,Los Ríos,153,Los Lagos,2.0
+2016,2016,14,Los Ríos,196,Paillaco,2.0
+2016,2016,14,Los Ríos,200,Panguipulli,5.0
+2016,2016,14,Los Ríos,329,Valdivia,25.0
+2016,2016,15,Arica y Parinacota,12,Arica,12.0
